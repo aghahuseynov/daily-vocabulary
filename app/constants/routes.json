@@ -1,6 +1,10 @@
 {
   "LOGIN": "/",
   "REGISTER": "/register",
-  "HOME": "/",
-  "COUNTER": "/counter"
+  "HOME": "/home",
+  "DASHBOARD": "/home/dashboard",
+  "TEST": "/home/test",
+  "DESCRIBEWORD": "/home/word",
+  "PROFILE": "/home/profile",
+  "SETTINGS": "/home/settings"
 }
